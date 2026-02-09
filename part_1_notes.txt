@@ -1,0 +1,4 @@
+Macbook Terminal vs ssh clear
+
+The line on terminal starts from the name of user, then name of my laptop. After that, there is  a % sign. 
+The line on clear starts from my netid then someone’s name. This part is covered by the brackets [], which was not the case in terminal. Also, % sign is now changed to $ sign. 
